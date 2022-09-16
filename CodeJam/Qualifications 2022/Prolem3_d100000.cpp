@@ -1,7 +1,5 @@
-
-// C++ program to demonstrate sort()
 #include <stdio.h>
-// #include <bits/stdc++.h>
+
 using namespace std;
 
 
